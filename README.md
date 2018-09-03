@@ -5,13 +5,13 @@ You can test the App on Heroku: https://youtube-heroku-app.herokuapp.com/
 
 Files: 
 
-public/index.html
-src/App.js
-src/App.css
-src/components/search_bar.js
-src/components/video_detail.js
-src/components/video_list.js
-src/components/video_list_item.js
+public/index.html <br>
+src/App.js<br>
+src/App.css<br>
+src/components/search_bar.js<br>
+src/components/video_detail.js<br>
+src/components/video_list.js<br>
+src/components/video_list_item.js<br>
 
 installed node modules:
 
@@ -23,22 +23,13 @@ YouTube API Key:
   Go to https://console.developers.google.com sign in with your google account and get your key.
 
 
-How I did it...
 
 First step is to install  Node.js to your machine. After installing Node open your terminal:
 
-  npx create-react-app youtube-react-app
-  // created youtube-react-app
-  cd my-app
-  // entering app folder 
-  npm start
-  // start local server 
+  npx create-react-app youtube-react-app<br>
+  // created youtube-react-app<br>
+  cd my-app<br>
+  // entering app folder <br>
+  npm start<br>
+  // start local server <br>
 
-
-After downloading react app I removed everything in App.js to start clean. 
-
-Made new folder "components" where I saved all components which I will used. 
-src/components/search_bar.js
-src/components/video_detail.js
-src/components/video_list.js 
-src/components/video_list_item.js
