@@ -6,7 +6,7 @@ import VideoDetail from './components/video_detail'; //import VideoDetal from Co
 import _ from 'lodash'; // install Loadash for function timer  npm install --save lodash
 import YTSearch from 'youtube-api-search'; 
 //API Key from Youtube
-const API_KEY = 'AIzaSyBay8hiIzf24BtWI8jO6NyMLjG2y_7tNQw';
+const API_KEY = 'AIzaSyDzz6NKN1qhbIK1y-yJLLPJmyZCoPPGl_w';
 
 
 
